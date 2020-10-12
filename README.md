@@ -9,9 +9,8 @@ Implemente o código mais resistente a crashes possível e informe seu usuário 
 
 As telas a seguir mostram exemplos do funcionamento esperado:
 
-<img src="telas/tela_inicial.png" width="300">
-![Busca por código](telas/busca_codigo.png)
-![Cadastro finalizado](telas/cadastro_finalizado.png)
-![Cadastro não encontrado](telas/cadastro_nao_encontrado.png)
-![Form com erros](telas/consulta_errada.png)
-
+<img src="telas/tela_inicial.png" width="500">
+<img src="telas/cadastro_finalizado.png" width="500">
+<img src="telas/busca_codigo.png" width="500">
+<img src="telas/cadastro_nao_encontrado.png" width="500">
+<img src="telas/consulta_errada.png" width="500">
