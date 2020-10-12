@@ -5,7 +5,7 @@ import PySimpleGUI as sg
 class ClienteController:
     def __init__(self):
         self.__telaCliente = ClienteView(self)
-        self.__clientes = {}
+        self.__clientes = {} #lista de objetos Cliente
 
     def inicia(self):
         container = self.__telaCliente.tela_consulta()
