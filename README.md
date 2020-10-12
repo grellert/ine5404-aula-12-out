@@ -4,7 +4,11 @@ Exemplo de um sistema de cadastro de clientes utilizando o padrão MVC (Model, V
 O sistema deve executar as seguintes funcionalidades:
  - Cadastro de novos usuários
  - Consulta de usuários cadastrados por nome ou por código
- 
+
+Bônus:
+ - Remove cadastros
+ - Lista clientes cadastrados
+
 Implemente o código mais resistente a crashes possível e informe seu usuário quando algo inesperado ocorrer.
 
 As telas a seguir mostram exemplos do funcionamento esperado:
