@@ -32,17 +32,17 @@ class ClienteController:
         self.__telaCliente.fim()
 
 
-    def buscaCodigo(self, codigo):
+    def busca_codigo(self, codigo):
         try:
             return self.__clientes[codigo]
         except KeyError:
             raise KeyError
 
     # cria novo OBJ cliente e adiciona ao dict
-    def adicionaCliente(self, codigo, nome):
+    def adiciona_cliente(self, codigo, nome):
         self.__clientes[codigo] = Cliente(codigo, nome)
     
-    def buscaNome(self, nome):
+    def busca_nome(self, nome):
         for key, val in self.__clientes.items():
             if val.nome == nome:
                 return key 
