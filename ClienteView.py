@@ -1,5 +1,4 @@
 import PySimpleGUI as sg 
-import Cliente
 
 # View do padrão MVC
 class ClienteView():
