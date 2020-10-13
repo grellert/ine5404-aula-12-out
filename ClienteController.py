@@ -8,7 +8,7 @@ class ClienteController:
         self.__clientes = {} #lista de objetos Cliente
 
     def inicia(self):
-        self.__telaClinte.tela_consulta()
+        self.__telaCliente.tela_consulta()
         
         # Loop de eventos
         rodando = True
