@@ -10,8 +10,8 @@ Os trechos de código que devem ser corrigidos estão indicados com o comentári
 Implemente o código mais resistente a crashes possível e informe seu usuário quando algo inesperado ocorrer.
 
 ## Extra:
- - Remove cadastros
- - Lista clientes cadastrados
+ - Implemente uma função que remove cadastros
+ - Implemente uma função que lista todos clientes cadastrados
 
 
 As telas a seguir mostram exemplos do funcionamento esperado:
