@@ -8,8 +8,6 @@ class ClienteController:
         self.__clientes = {} #lista de objetos Cliente
 
     def inicia(self):
-        container = self.__telaCliente.tela_consulta()
-
         # Loop de eventos
         rodando = True
         resultado = ''
