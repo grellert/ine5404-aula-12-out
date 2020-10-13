@@ -5,7 +5,7 @@ O sistema deve executar as seguintes funcionalidades:
  - Cadastro de novos usuários
  - Consulta de usuários cadastrados por nome ou por código
  
-Os trechos de código que devem ser corrigidos estão indicados com o comentário **FIX ME**
+Os trechos de código que devem ser corrigidos estão indicados com o comentário **#FIX ME**.
 
 Implemente o código mais resistente a crashes possível e informe seu usuário quando algo inesperado ocorrer.
 
