@@ -1,4 +1,4 @@
-# ine5404-aula-13-out
+# ine5404-aula-GUI
 Exemplo de um sistema de cadastro de clientes utilizando o padrão MVC (Model, View, Controller)
 
 O sistema deve executar as seguintes funcionalidades:
